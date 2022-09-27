@@ -125,3 +125,4 @@ class Game:
 
 game = Game()
 game.play_game()
+'''I stole this to get an idea of what to do'''
